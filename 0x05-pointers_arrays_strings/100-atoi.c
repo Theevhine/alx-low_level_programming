@@ -1,9 +1,7 @@
-#include "main.h"
+\0;276;0c#include "main.h"
 /**
-* _ato1 - convert string to an integer.
-* @s: Pointer to a character string
-* 
-* Description: converting strings to an integer
+* _ato1 - convert string to an integer
+* @s: Pointer
 *
 * Return: the int converted from the string
 */
